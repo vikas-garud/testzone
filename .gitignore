@@ -1,0 +1,17 @@
+#General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Icons
+Icon
+
+#Thumbnails
+._*
+
+
+# files that may appear in root of the volume
+.testzone
+.Trashes
+
+
