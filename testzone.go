@@ -23,5 +23,5 @@ func main() {
 
 	fmt.Printf("line nine .....\n")
 
-	fmt.Printf("line ten .....\n")
+	fmt.Printf("line ten  ......\n")
 }
